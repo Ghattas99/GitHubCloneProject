@@ -1,2 +1,3 @@
 This is a new feature.
 Add feature description
+Resolve merge conflict between main and feature-greeting
